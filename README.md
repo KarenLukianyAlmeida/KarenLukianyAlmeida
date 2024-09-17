@@ -1,5 +1,5 @@
-<h3 align="center">Hi there 👋</h3>
-<h2 align="center">Welcome to my GitHub profile!</h2>
+### Hi there 👋
+## Welcome to my GitHub profile!
 
 <!--
 **KarenLukianyAlmeida/KarenLukianyAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
