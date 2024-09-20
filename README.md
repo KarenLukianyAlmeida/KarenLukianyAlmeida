@@ -7,6 +7,7 @@ I'm in a career transition and my passion is programming!
 
 Here I share the projects I've been developing to achieve ___my main goal: to become a Full Stack Developer___ \o/
 
+## Connect with me
 
 ## Languages and Tools
 
