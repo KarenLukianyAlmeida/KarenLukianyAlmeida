@@ -9,6 +9,8 @@ Here I share the projects I've been developing to achieve ___my main goal: to be
 
 ## Connect with me
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karenlukianyalmeida/)
+
 ## Languages and Tools
 
 <p>
