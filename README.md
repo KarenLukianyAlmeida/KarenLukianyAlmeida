@@ -5,6 +5,8 @@ My name is Karen Almeida, I'm Brazilian but currently I'm living in Portugal.
 
 I'm in a career transition and my passion is programming!
 
+Currently, I'm studying React Native :)
+
 Here I share the projects I've been developing to achieve ___my main goal:__ to become a __Full Stack Developer___ \o/
 
 ## Connect with me
